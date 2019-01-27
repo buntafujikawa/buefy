@@ -11,6 +11,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "buefy": "^0.7.2",
+    "font-awesome": "^4.7.0",
     "vue": "^2.5.2"
   },
   "devDependencies": {
